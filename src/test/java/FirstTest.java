@@ -20,16 +20,16 @@ public class FirstTest {
 		element.sendKeys("7995515291");
 		Thread.sleep(3000);
 	
-		@Test
-		driver.findElement(By.name("password"));
-		
-		
-
-		driver.findElement(By.xpath("//*[@id=\"loginForm\"]/div[1]/div[3]/button/div")).submit();
-		Thread.sleep(9000);
-		System.out.println("login successful");
-		
-		
-		System.out.println("hiiiiiiiiiiii");
+	//	@Test
+//	//	driver.findElement(By.name("password"));
+//		
+//		
+//
+//		driver.findElement(By.xpath("//*[@id=\"loginForm\"]/div[1]/div[3]/button/div")).submit();
+//		Thread.sleep(9000);
+//		System.out.println("login successful");
+//		
+//		
+//		System.out.println("hiiiiiiiiiiii");
 	}
 }

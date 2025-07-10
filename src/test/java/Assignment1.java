@@ -1,4 +1,5 @@
 
+                                          //Info : Assessment 1 - OrangeHrm Login //
 import java.util.List;
 import java.time.Duration;
 import org.openqa.selenium.By;
@@ -16,7 +17,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-public class Orangehrm {
+public class Assignment1 {
 	WebDriver driver = new ChromeDriver();
 	WebDriverWait wait;
 	@BeforeTest
@@ -180,6 +181,11 @@ public class Orangehrm {
 		Assert.assertEquals(SelectedStatus, "Disabled", "Does not match");
 		System.out.println(SelectedStatus);}
 
+	
+	
+	
+	
+	
 @AfterTest
 public void CloseURL() {
 	

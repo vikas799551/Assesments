@@ -1,4 +1,5 @@
 
+                                            //Info : Assessment3 - Test Pages X paths//
 import java.time.Duration;
 
 import org.openqa.selenium.By;
@@ -8,7 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Htmltabletag {
+public class Assignment3 {
 
 	ChromeDriver driver = new ChromeDriver();
 	

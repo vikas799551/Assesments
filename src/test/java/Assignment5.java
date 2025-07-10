@@ -1,3 +1,5 @@
+
+                                          //Info : Assessment 5 - RahulShetty Drop down x paths For Selecting countries option//
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -9,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class Rahuldropdownandsuggestion {
+public class Assignment5 {
 
     WebDriver driver;
 

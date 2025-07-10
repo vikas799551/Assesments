@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonHoverMenuTest">
+      <class name="Assignment11">
         <methods>
-          <include name="testHoverMenuOptions"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
+          <include name="TestUrl"/>
+          <include name="TestCaseTwo"/>
+          <include name="Close"/>
         </methods>
-      </class> <!-- AmazonHoverMenuTest -->
+      </class> <!-- Assignment11 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,4 +1,5 @@
 
+                                      //Info : Assessment 2 - Amazon Mousehover X paths//
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +11,7 @@ import org.testng.annotations.*;
 
 import java.time.Duration;
 
-public class AmazonHoverMenuTest {
+public class Assignment2 {
     WebDriver driver;
 
     @BeforeClass
